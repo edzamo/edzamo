@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Edwin Zamora is a ✨ Software Developer ✨.
+I'm Edwin Zamora , I am a ✨ Software Engineer ✨.
 
 Here are some ideas to get you started:
 
