@@ -23,9 +23,22 @@
 
 ---
 
+#### 🏅 Certifications
+
+You can view my verified certifications on [**Credly**](https://www.credly.com/users/edwinpatriciozamora/badges), including:
+
+- Cloud & DevOps (e.g., AWS, GCP, Docker)
+- Software Engineering & Architecture
+- Programming Language Skills
+
+---
+
 #### 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/edzamo/)  
+- 📧 Email: edzamo.dev@gmail.com  
+- 🏅 [Credly Badges](https://www.credly.com/users/edwinpatriciozamora/badges)
+
 ---
 
 #### 🔧 Tools & Technologies
@@ -41,7 +54,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-> 
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
