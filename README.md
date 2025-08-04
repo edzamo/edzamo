@@ -36,9 +36,6 @@ You can view my verified certifications on [**Credly**](https://www.credly.com/u
 #### 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/edzamo/)  
-- 📧 Email: edzamo.dev@gmail.com  
-- 🏅 [Credly Badges](https://www.credly.com/users/edwinpatriciozamora/badges)
-
 ---
 
 #### 🔧 Tools & Technologies
