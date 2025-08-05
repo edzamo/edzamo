@@ -17,7 +17,7 @@
 
 - Clean Architecture & Software Design Patterns  
 - Cloud Computing (**AWS** / **GCP** / **AZURE**)  
-- Backend Development with **Spring Boot** , **Spring WebFlux** and **NestJs**
+- Backend Development with **Spring Boot** , **Spring WebFlux** and **NestJS**
 - Containers and Orchestration with **Docker** and **Kubernetes**  
 - Data Engineering Fundamentals (ETL, pipelines, distributed systems)  
 
