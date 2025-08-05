@@ -16,7 +16,7 @@
 #### 🧠 Areas of Interest
 
 - Clean Architecture & Software Design Patterns  
-- Cloud Computing (**AWS** / **GCP**)  
+- Cloud Computing (**AWS** / **GCP** / **AZURE**)  
 - Backend Development with **Spring Boot** and **Spring WebFlux**  
 - Containers and Orchestration with **Docker** and **Kubernetes**  
 - Data Engineering Fundamentals (ETL, pipelines, distributed systems)  
