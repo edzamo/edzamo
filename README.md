@@ -119,16 +119,17 @@
 
 <div align="center">
 
-<a href="https://github.com/edzamo/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edzamo&repo=REPO_NAME_1&theme=default&hide_border=true" />
+<a href="https://github.com/edzamo/software-engineering">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edzamo&repo=software-engineering&theme=default&hide_border=true" />
 </a>
-<a href="https://github.com/edzamo/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edzamo&repo=REPO_NAME_2&theme=default&hide_border=true" />
+<a href="https://github.com/edzamo/bigdata-credit-risk-architecture">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edzamo&repo=bigdata-credit-risk-architecture&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/edzamo/bco-austro-poc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=edzamo&repo=bco-austro-poc&theme=default&hide_border=true" />
 </a>
 
 </div>
-
-> 💡 Replace `REPO_NAME_1` and `REPO_NAME_2` with the repos you want to showcase (or use GitHub's native "Pin repositories" feature on your profile, which does the same thing automatically).
 
 ---
 
