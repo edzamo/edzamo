@@ -102,19 +102,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=edzamo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Edwin's GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edzamo&hide_border=true" alt="Edwin's GitHub streak" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edzamo&layout=compact&hide_border=true&langs_count=8" alt="Edwin's top languages" height="165" />
-
-</div>
-
----
-
 ### 🏅 Certifications
 
 - **Associate Cloud Engineer** — Google Cloud (verified, valid through June 2028)
